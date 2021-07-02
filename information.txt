@@ -1,0 +1,21 @@
+aa; aa; borrowed; 9901011111; 2017-03-03
+bok; adam; borrowed; 5507079999; 2017-02-03
+jdfdjfed; ads; borrowed; 9901011111; 2016-02-08
+book added; author added; avalible; nothing; notimeset
+b; b; borrowed; 9901011111; 2017-03-12
+hej; badi mirzai; avalible; nothing; notimeset
+bbb; bbb; avalible; nothing; notimeset
+ddd; ddd; avalible; nothing; notimeset
+eee; eee; borrowed; 9901011111; 2017-04-17
+f; f; borrowed; 9901011111; 2017-02-03
+dfdsfdsfd; fdfdfdfd; avalible; nothing; notimeset
+g; g; avalible; nothing; notimeset
+hej; hej; borrowed; 9901011111; 2017-02-03
+ondskan; jan guillou; borrowed; 9901011111; 2017-02-03
+jorden runt på 80 dagar; jules verne; avalible; nothing; notimeset
+shahs; jules verne; avalible; nothing; notimeset
+ftghv; lkjhghjv; avalible; nothing; notimeset
+hej; mormor; borrowed; 9901011111; 2017-02-03
+mormor; mormor; avalible; 9901011111; notimeset
+aadsldkd; mr ja; avalible; nothing; notimeset
+some book; some author; borrowed; nothing; notimeset

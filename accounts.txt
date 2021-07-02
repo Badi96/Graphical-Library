@@ -1,0 +1,4 @@
+badi; 9901180000; badi@gmail.com; admin
+testkonto; 9901011111; testmail@hotmail.com; normal
+Niels Henrik David Bohr; 5507079999; bohr@hotmail.com; normal
+Niklas; 0001010000; niklas@hotmail.com; normal
